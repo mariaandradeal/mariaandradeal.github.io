@@ -12,9 +12,9 @@ title                    : "Maria Andrade"
 title_separator          : "-"
 name                     : &name "Maria Andrade"
 description              : &description "Hydrology Ph.D. student working at the intersection of river corridors, flood risk, hydraulic modeling, remote sensing, and climate impacts."
-url                      : https://mariaandradeal.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/mariaandrade.github.io" # the subpath of your site, e.g. "/blog"
-repository               : "mariaandradeal/mariaandrade.github.io"
+url: "https://mariaandradeal.github.io"
+baseurl: ""
+repository: "mariaandradeal/mariaandradeal.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
